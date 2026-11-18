@@ -36,12 +36,11 @@ Utilizo herramientas como **ChatGPT y Claude** para complementar mis estudios, i
 
 Me interesa utilizar la IA de forma práctica: no solo para encontrar respuestas, sino también para **comprenderlas, experimentar y desarrollar mis propias ideas**.
 
-### 🚀 Proyectos en desarrollo
+### 🚀 Proyectos y aprendizaje
 
-- **📚 Grimorio del Kernel Pánico:** biblioteca digital de estudio, documentación y herramientas educativas.
-- **🏢 Oficina virtual con agentes de IA:** prototipo interactivo con espacios y personajes que representan distintos asistentes de inteligencia artificial. Por ahora, la comunicación con las IA se realiza de forma manual.
+- **📚 Grimorio del Kernel Pánico:** biblioteca digital de estudio, documentación y herramientas educativas. Proyecto personal en desarrollo.
 
-*Por ahora, ambos repositorios son privados y están en desarrollo.*
+También estoy explorando repositorios de código abierto y herramientas de otras personas para aprender cómo funcionan, experimentar con ellas y desarrollar nuevas ideas. En esos casos, respeto sus licencias y reconozco la autoría original.
 
 ### 🎯 Hacia dónde quiero avanzar
 

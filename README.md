@@ -4,7 +4,7 @@
 
 ### 🐧 Estudiante de Sistemas Microinformáticos y Redes
 
-**Linux · Administración de sistemas · Redes · Soporte técnico**
+**Linux · Sistemas · Redes · Soporte técnico**
 
 *Me gusta entender cómo funcionan las cosas, experimentar y encontrar soluciones.*
 
@@ -14,24 +14,27 @@
 
 ### 👩‍💻 Sobre mí
 
-Estoy cursando **2.º de Grado Medio de Sistemas Microinformáticos y Redes (SMR)** en España.
+Actualmente estoy cursando **2.º de Grado Medio de Sistemas Microinformáticos y Redes (SMR)**.
 
-Me interesan especialmente **Linux, la administración de sistemas, las redes y la resolución de incidencias**. Disfruto aprendiendo con prácticas reales: configurar servicios, investigar errores, probar alternativas y comprender el porqué de cada solución.
+Me interesan especialmente **Linux, la administración de sistemas y las redes**. Me gusta aprender mediante la práctica, investigar los errores que encuentro y probar distintas soluciones para comprender mejor cómo funcionan las cosas.
 
 ### 🛠️ Conocimientos y herramientas
 
-| Área | Tecnologías y experiencia práctica |
+| Área | Conocimientos y experiencia |
 | --- | --- |
-| 🐧 **Linux** | Arch, CachyOS, Fedora y Ubuntu; terminal y administración básica |
-| 🖥️ **Windows** | Windows 10/11 y Windows Server |
-| 🌐 **Redes y servicios** | TCP/IP, DNS, DHCP, FTP y configuración de servidores |
-| 📦 **Virtualización** | VirtualBox, QEMU/KVM y virt-manager |
-| ⚙️ **Automatización** | Scripts Bash y tareas de administración |
-| 🔧 **Otras herramientas** | Git, GitHub y diagnóstico de sistemas |
+| 🐧 **Linux** | Uso habitual de **CachyOS con KDE Plasma**. Experiencia a nivel de usuario y conocimientos de terminal adquiridos en clase y por mi cuenta. |
+| 🖥️ **Windows** | Windows 10/11 y prácticas de instalación y configuración de Windows Server. |
+| 🌐 **Redes y servicios** | Conocimientos académicos y prácticas con TCP/IP, DNS, DHCP y FTP. |
+| 📦 **Virtualización** | Creación y configuración de máquinas virtuales con **VirtualBox**. |
+| ⚙️ **Bash** | Conocimientos básicos de scripting adquiridos durante el curso. |
+| 🌍 **Aplicaciones web** | Conocimientos básicos de **HTML y CSS** mediante actividades de clase. No es mi especialidad principal. |
+| 🔧 **Git y GitHub** | Aprendiendo a utilizarlos para organizar y mantener mis proyectos. |
 
-### 🤖 Cómo utilizo la inteligencia artificial
+### 🤖 Inteligencia artificial y aprendizaje
 
-Uso herramientas como **ChatGPT y Claude** para **aprender, investigar, analizar errores y desarrollar proyectos personales**. La IA me ayuda a explorar posibilidades y contrastar soluciones; mi objetivo es **comprender lo que hago**, no solo obtener un resultado.
+Utilizo herramientas como **ChatGPT y Claude** para complementar mis estudios, investigar problemas técnicos y desarrollar proyectos personales.
+
+Me interesa utilizar la IA de forma práctica: no solo para encontrar respuestas, sino también para **comprenderlas, experimentar y desarrollar mis propias ideas**.
 
 ### 🚀 Proyectos en desarrollo
 
@@ -42,7 +45,7 @@ Uso herramientas como **ChatGPT y Claude** para **aprender, investigar, analizar
 
 ### 🎯 Hacia dónde quiero avanzar
 
-Seguir ganando experiencia en **administración de sistemas, redes y soporte técnico**, y convertir lo que aprendo en proyectos útiles.
+Seguir aprendiendo y ganar experiencia profesional en **sistemas, redes y soporte técnico**, mientras aplico lo aprendido a proyectos propios.
 
 ---
 

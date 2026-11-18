@@ -39,7 +39,7 @@ Me interesa utilizar la IA de forma práctica: no solo para encontrar respuestas
 ### 🚀 Proyectos en desarrollo
 
 - **📚 Grimorio del Kernel Pánico:** biblioteca digital de estudio, documentación y herramientas educativas.
-- **🏢 Oficina del Kernel Pánico:** experimento de oficina virtual interactiva con personajes y herramientas de IA.
+- **🏢 Oficina virtual con agentes de IA:** prototipo interactivo con espacios y personajes que representan distintos asistentes de inteligencia artificial. Por ahora, la comunicación con las IA se realiza de forma manual.
 
 *Por ahora, ambos repositorios son privados y están en desarrollo.*
 
